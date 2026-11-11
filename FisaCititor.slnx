@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="FisaCititor.vcxproj" Id="0acba56f-1d19-4ab2-b21e-1c6be6c5fe03" />
+</Solution>
